@@ -1,6 +1,106 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ankit+Kaushik!;+App+Developer+%26+Competitive+Programmer" /> </h1> <h3 align="center">🌟 A passionate App Developer & Competitive Programmer from India 🚀</h3> <br/> <div align="center"> 🔭 <b>Currently:</b> App Development Lead at GDSC IIIT Bhopal 🌱 <b>Exploring:</b> SwiftUI, Kotlin, and Advanced DSA 💬 <b>Ask me about:</b> SwiftUI, Firebase, C++, DSA, or anything tech-related </div> <br/> <div align="center"> <a href="mailto:kaushikankit2021@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a> <a href="https://linkedin.com/in/ankit-kaushik-81687b244" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
-<h2 align="center">📈 My Competitive Programming Journey</h2> <div align="center"> <img width=390 src="https://leetcard.jacoblin.cool/AK200199?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" alt="LeetCode Stats" /> <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> </div> <br/> <h3 align="center">🌟 Highlights</h3> <ul> <li>🏆 <b>LeetCode:</b> Knight Badge (Top 6%) with 1200+ problems solved</li> <li>💡 <b>CodeForces:</b> Specialist (Peak Rating: 1464)</li> <li>✨ <b>CodeChef:</b> 3⭐ (Peak Rating: 1737)</li> <li>🚀 Ranked <b>12th globally</b> in CodeChef Starters (35,000+ participants)</li> </ul>
-<h2 align="center">🛠️ Languages, Frameworks & Tools</h2> <br/> <div align="center"> <img src="https://skillicons.dev/icons?i=swift,kotlin,cpp,python,java,firebase,react,flutter,mysql,github,androidstudio,vscode" /> </div>
-<h2 align="center">🌟 Achievements & Projects</h2> <br/> <h3>🚀 Notable Projects:</h3> <ul> <li><b>CryptoSphere:</b> A cryptocurrency app with enhanced authentication, graph features, and live market statistics</li> <li><b>ObjectInsight:</b> An ML-powered object recognition app with 95% accuracy</li> <li><b>UnitFlow:</b> A feature-rich unit conversion app with an intuitive UI</li> </ul> <div align="center"> <a href="https://github.com/ankit7610/CryptoSphere"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit7610&repo=CryptoSphere&theme=react&border_color=61dafb&border_radius=10" /> </a> <a href="https://github.com/ankit7610/ObjectInsight"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit7610&repo=ObjectInsight&theme=react&border_color=61dafb&border_radius=10" /> </a> </div>
-<h2 align="center">🏆 Achievements in Numbers</h2> <br/> <ul> <li>📱 Developed 10+ mobile applications with modern UI/UX</li> <li>💡 Solved 2000+ coding problems across platforms</li> <li>✨ Mentored 30+ students as App Development Lead</li> </ul>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+connect+on+LinkedIn!;"> </h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Kaushik!;" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">A Passionate App Developer & Competitive Programmer from India 🚀</h3>
+
+<br/>
+
+<div align="center">
+  <p>🔭 Currently working as <strong>App Development Lead</strong> at <a href="https://gdsc.community.dev/iiit-bhopal/">GDSC IIIT Bhopal</a></p>
+  <p>🌱 Deep diving into <strong>SwiftUI, Kotlin, and Advanced DSA</strong></p>
+  <p>💬 Ask me about <strong>SwiftUI, Firebase, C++, DSA</strong>, or anything else!</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:kaushikankit2021@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/ankit-kaushik-81687b244" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ankit7610" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
+
+<div align="center">
+  <a href="https://leetcode.com/AK200199/">
+    <img src="https://leetcard.jacoblin.cool/AK200199?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7610&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit7610&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
+</div>
+
+<br/><br/>
+
+<h2 align="center">🛠️ Languages, Frameworks & Tools 🛠️</h2>
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,cpp,python,java,firebase" alt="Languages & Frameworks" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,flutter,mysql,github,androidstudio,vscode" alt="Tools" />
+</div>
+
+<br/>
+
+<h2 align="center">🏆 Achievements 🏆</h2>
+<br/>
+
+### 🥇 Competitive Programming:
+- **LeetCode:** Knight Badge (Top 6%) with 1200+ problems solved
+- **CodeForces:** Specialist (Peak Rating: 1464)
+- **CodeChef:** 3⭐ (Peak Rating: 1737)
+- **Ranked 12th globally** in CodeChef Starters (35,000+ participants)
+
+### 🚀 Projects:
+- **CryptoSphere:** Cryptocurrency app with 25% improved authentication
+- **ObjectInsight:** ML-powered object recognition (95% accuracy)
+- **UnitFlow:** Unit conversion app with advanced features
+
+<br/>
+
+<h2 align="center">📱 Featured Projects 📱</h2>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ankit7610/CryptoSphere">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit7610&repo=CryptoSphere&theme=react&border_color=61dafb&border_radius=10" alt="CryptoSphere Repository" />
+  </a>
+  <a href="https://github.com/ankit7610/ObjectInsight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit7610&repo=ObjectInsight&theme=react&border_color=61dafb&border_radius=10" alt="ObjectInsight Repository" />
+  </a>
+  <a href="https://github.com/ankit7610/UnitFlow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankit7610&repo=UnitFlow&theme=react&border_color=61dafb&border_radius=10" alt="UnitFlow Repository" />
+  </a>
+</div>
+
+<br/>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab.:)" alt="Closing Message" />
+</h3>
+
+<br/>
+
+<div align="center">
+  <a href="https://twitter.com/yourtwitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://medium.com/@yourmedium" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.instagram.com/yourinstagram/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
