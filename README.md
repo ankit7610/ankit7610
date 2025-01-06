@@ -7,7 +7,6 @@
 <br/>
 
 <div align="center">
-  <p>🔭 Currently working as <strong>App Development Lead</strong> at <a href="https://gdsc.community.dev/iiit-bhopal/">GDSC IIIT Bhopal</a></p>
   <p>🌱 Deep diving into <strong>SwiftUI, Kotlin, and Advanced DSA</strong></p>
   <p>💬 Ask me about <strong>SwiftUI, Firebase, C++, DSA</strong>, or anything else!</p>
 </div>
@@ -60,13 +59,21 @@
 ### 🥇 Competitive Programming:
 - **LeetCode:** Knight Badge (Top 6%) with 1200+ problems solved
 - **CodeForces:** Specialist (Peak Rating: 1464)
-- **CodeChef:** 3⭐ (Peak Rating: 1737)
-- **Ranked 12th globally** in CodeChef Starters (35,000+ participants)
+- **CodeChef:** 3⭐ (Peak Rating: 1737), Ranked 12th globally in CodeChef Starters among 35,000+ participants
 
 ### 🚀 Projects:
-- **CryptoSphere:** Cryptocurrency app with 25% improved authentication
-- **ObjectInsight:** ML-powered object recognition (95% accuracy)
-- **UnitFlow:** Unit conversion app with advanced features
+- **CryptoSphere:**
+  - Architected a cryptocurrency app with MVVM architecture, including portfolio management, live prices, and interactive charts.
+  - Integrated Firebase login with Google and Apple, reducing unauthorized access by 25% and login time by 30%.
+  - Achieved a 20% increase in user retention and boosted recommendation algorithm accuracy by 25%.
+
+- **ObjectInsight:**
+  - Developed an object recognition app using MobileNetV2 with 95% accuracy in object identification.
+  - Reduced image processing time by 30% and implemented advanced features for image analysis.
+
+- **UnitFlow:**
+  - Engineered a unit conversion app with advanced loan calculation capabilities, increasing financial planning accuracy by 20%.
+  - Personalization feature allowing selection of 1M+ background colors, boosting user satisfaction by 30%.
 
 <br/>
 
