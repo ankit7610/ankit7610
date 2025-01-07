@@ -27,9 +27,11 @@
 
 <br/>
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<h2 align="center">🏆 Competitive Programming Achievements 🏆</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankit7610&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=AK200199&theme=dark" alt="LeetCode Knight Badge"/>
+  <img src="https://codeforces-badges.herokuapp.com/api/badge/specialist/ankit7610" alt="Codeforces Specialist"/>
+  <img src="https://img.shields.io/badge/CodeChef-4%20Star-yellow?style=for-the-badge&logo=codechef" alt="CodeChef 4 Star"/>
 </div>
 
 <h2 align="center">⚡ Stats & Achievements ⚡</h2>
@@ -40,15 +42,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit7610&theme=react&border=61dafb&hide_border=false" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7610&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🎯 LeetCode Stats & Badges</h3>
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=AK200199&theme=dark&border=border" alt="LeetCode Badges" />
-  <br/><br/>
-  <img src="https://leetcard.jacoblin.cool/AK200199?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" />
 </div>
 
 <h2 align="center">🛠️ Languages, Frameworks & Tools 🛠️</h2>
@@ -109,4 +102,3 @@
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-
