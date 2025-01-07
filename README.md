@@ -27,12 +27,12 @@
 
 <br/>
 
-<h2 align="center">⚡ Stats & Achievements ⚡</h2>
+<h2 align="center">⚡ Stats & Trophies ⚡</h2>
 <br/>
 
 <div align="center">
-  <a href="https://leetcode.com/AK200199/">
-    <img src="https://leetcard.jacoblin.cool/AK200199?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://codolio.com/profile/kaushikankit">
+    <img src="https://leetcard.jacoblin.cool/kaushikankit?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" alt="Codolio Profile" />
   </a>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7610&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
@@ -40,27 +40,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ankit7610&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=ankit7610&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=ankit7610&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 <br/><br/>
-
-<h2 align="center">🏅 Competitive Programming Highlights 🏅</h2>
-<br/>
-
-<div align="center">
-  <img src="https://github.com/ankit7610/ankit7610/blob/main/assets/leetcode_knight.png" alt="LeetCode Knight Badge" width="150" />
-  <img src="https://github.com/ankit7610/ankit7610/blob/main/assets/codechef_4star.png" alt="CodeChef 4-Star Badge" width="150" />
-  <img src="https://github.com/ankit7610/ankit7610/blob/main/assets/codeforces_specialist.png" alt="Codeforces Specialist Badge" width="150" />
-</div>
-
-<br/>
-
-### 🥇 Achievements:
-- **LeetCode:** Knight Badge (Top 6%) with 1200+ problems solved
-- **CodeForces:** Specialist (Peak Rating: 1464)
-- **CodeChef:** 4⭐ (Peak Rating: 1800), Ranked 12th globally in CodeChef Starters among 35,000+ participants
-
-<br/>
 
 <h2 align="center">🛠️ Languages, Frameworks & Tools 🛠️</h2>
 <br/>
@@ -73,9 +57,15 @@
 
 <br/>
 
-<h2 align="center">🚀 Projects 🚀</h2>
+<h2 align="center">🏆 Achievements 🏆</h2>
 <br/>
 
+### 🥇 Competitive Programming:
+- **LeetCode:** Knight Badge (Top 6%) with 1200+ problems solved
+- **CodeForces:** Specialist (Peak Rating: 1464)
+- **CodeChef:** 3⭐ (Peak Rating: 1737), Ranked 12th globally in CodeChef Starters among 35,000+ participants
+
+### 🚀 Projects:
 - **CryptoSphere:**
   - Architected a cryptocurrency app with MVVM architecture, including portfolio management, live prices, and interactive charts.
   - Integrated Firebase login with Google and Apple, reducing unauthorized access by 25% and login time by 30%.
@@ -109,7 +99,14 @@
 <br/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab.:)" alt="Closing Message" />
+</h3>
+
+<br/>
+
+<div align="center">
+  <a href="https://twitter.com/yourtwitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor
 ::contentReference[oaicite:0]{index=0}
  
 
