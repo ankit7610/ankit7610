@@ -27,6 +27,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankit7610&style=for-the-badge&color=brightgreen" alt="Profile Visitor Count" />
+</div>
+
+<br/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 
@@ -38,6 +44,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7610&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=ankit7610&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ankit7610&theme=onestar&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 <br/><br/>
