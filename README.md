@@ -1,16 +1,6 @@
-<!--
-  Author: Ankit Kaushik
-  Profile: https://github.com/ankit7610
-  Additions: Visitor count badge, LeetCode Knight Badge, and GitHub Trophies
--->
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Kaushik!;" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ankit7610.ankit7610" alt="Visitors" />
-</p>
 
 <h3 align="center">A Passionate App Developer & Competitive Programmer from India 🚀</h3>
 
@@ -45,14 +35,13 @@
     <img src="https://leetcard.jacoblin.cool/AK200199?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" alt="LeetCode Stats" />
   </a>
   <br/><br/>
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=ankit7610&theme=onedark" alt="GitHub Trophies" />
-  </a>
-  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7610&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=ankit7610&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ankit7610&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=ankit7610&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 <br/><br/>
@@ -72,7 +61,7 @@
 <br/>
 
 ### 🥇 Competitive Programming:
-- <img src="https://static.leetcode.com/cn-2020/badges/knight2020.png" alt="LeetCode Knight Badge" width="32" /> **LeetCode:** Knight Badge (Top 6%) with 1200+ problems solved
+- **LeetCode:** Knight Badge (Top 6%) with 1200+ problems solved
 - **CodeForces:** Specialist (Peak Rating: 1464)
 - **CodeChef:** 3⭐ (Peak Rating: 1737), Ranked 12th globally in CodeChef Starters among 35,000+ participants
 
@@ -118,13 +107,7 @@
 <div align="center">
   <a href="https://twitter.com/yourtwitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://medium.com/@yourmedium" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.instagram.com/yourinstagram/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
 
+::contentReference[oaicite:0]{index=0}
+ 
 
