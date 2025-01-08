@@ -3,7 +3,6 @@
 </h1>
 
 <h3 align="center">A Passionate App Developer & Competitive Programmer from India 🚀</h3>
-
 <br/>
 
 <div align="center">
