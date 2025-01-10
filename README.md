@@ -4,7 +4,6 @@
 
 <h3 align="center">A Passionate App Developer & Competitive Programmer from India 🚀</h3>
 <br/>
-
 <div align="center">
   <p>🌱 Deep diving into <strong>SwiftUI, Kotlin, and Advanced DSA</strong></p>
   <p>💬 Ask me about <strong>SwiftUI, Firebase, C++, DSA</strong>, or anything else!</p>
