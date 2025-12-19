@@ -15,6 +15,7 @@
   <p>🌱 Deep diving into <strong>SwiftUI, Kotlin, and Advanced DSA</strong></p>
   <p>💬 Ask me about <strong>SwiftUI, Firebase, C++, DSA</strong>, or anything else!</p>
   <p>⚡ Fun fact: <strong>I ranked 12th globally among 35,000+ participants in CodeChef Starters!</strong></p>
+  <p>🌐 Portfolio: <a href="https://ankit7610.github.io/MyPortfolio/" target="_blank"><strong>ankit7610.github.io</strong></a></p>
 </div>
 
 <br/>
@@ -26,14 +27,28 @@
   <a href="https://linkedin.com/in/ankit-kaushik-81687b244" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://ankit7610.github.io/MyPortfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://github.com/ankit7610" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/AK200199/" target="_blank">
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://leetcode.com/u/AK200199/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://codeforces.com/profile/yourusername" target="_blank">
+  <a href="https://codeforces.com/profile/kaushikankit7610" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/algoace2024" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.naukri.com/code360/profile/df067981-84c2-48eb-87e7-afd400849732" target="_blank">
+    <img src="https://img.shields.io/badge/Coding_Ninjas-DD6620?style=for-the-badge&logo=code&logoColor=white" alt="Coding Ninjas" />
   </a>
 </div>
 
@@ -82,17 +97,18 @@
 <div align="center">
   
 ### 🔥 LeetCode Journey
-<a href="https://leetcode.com/AK200199/">
+<a href="https://leetcode.com/u/AK200199/">
   <img src="https://leetcard.jacoblin.cool/AK200199?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" alt="LeetCode Stats" width="70%" />
 </a>
 
 <br/><br/>
 
-| Platform | Rating | Rank | Problems Solved |
-|----------|--------|------|-----------------|
-| 🟨 **LeetCode** | Knight Badge | Top 6% | 1200+ |
-| 🔵 **CodeForces** | 1464 (Peak) | Specialist | 500+ |
-| 🟤 **CodeChef** | 1737 (Peak) | 3⭐ | 300+ |
+| Platform | Rating | Rank | Problems Solved | Profile |
+|----------|--------|------|-----------------|---------|
+| 🟨 **LeetCode** | Knight Badge | Top 6% | 1200+ | [Visit Profile](https://leetcode.com/u/AK200199/) |
+| 🔵 **CodeForces** | 1464 (Peak) | Specialist | 500+ | [Visit Profile](https://codeforces.com/profile/kaushikankit7610) |
+| 🟤 **CodeChef** | 1737 (Peak) | 3⭐ | 300+ | [Visit Profile](https://www.codechef.com/users/algoace2024) |
+| 🟠 **Coding Ninjas** | Expert | - | - | [Visit Profile](https://www.naukri.com/code360/profile/df067981-84c2-48eb-87e7-afd400849732) |
 
 </div>
 
@@ -136,7 +152,14 @@
 ✓ Ranked 12th Globally in CodeChef Starters (35K+ participants)
 ✓ CodeForces Specialist (Peak: 1464)
 ✓ CodeChef 3⭐ (Peak: 1737)
+✓ Certified DSA Expert - Coding Ninjas
 ```
+
+<br/>
+
+<a href="https://ninjasfiles.s3.amazonaws.com/certificate3197222d4d36b4657228c1d3138caa722b9a99d.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/View_Certificate-DD6620?style=for-the-badge&logo=files&logoColor=white" alt="Certificate" />
+</a>
 
 </div>
 
@@ -149,8 +172,8 @@
 
 <div align="center">
 
-### 💰 CryptoSphere
-[![CryptoSphere](https://github-readme-stats.vercel.app/api/pin/?username=ankit7610&repo=CryptoSphere&theme=radical&border_radius=10&hide_border=true)](https://github.com/ankit7610/CryptoSphere)
+### 💰 CryptoCurrency App
+[![CryptoCurrency](https://github-readme-stats.vercel.app/api/pin/?username=ankit7610&repo=CryptoCurrency&theme=radical&border_radius=10&hide_border=true)](https://github.com/ankit7610/CryptoCurrency)
 
 **Cryptocurrency Portfolio Management App**
 - 🏗️ Built with MVVM architecture & SwiftUI
@@ -158,6 +181,23 @@
 - 📊 Live prices, interactive charts, and portfolio tracking
 - 📈 25% increase in recommendation accuracy
 - ⚡ 30% faster login times
+- 🔒 25% reduction in unauthorized access
+
+**Tech Stack:** Swift, SwiftUI, Firebase, CoreData, Combine
+
+<br/>
+
+### 📚 BookBridge
+[![BookBridge](https://github-readme-stats.vercel.app/api/pin/?username=ankit7610&repo=BookBridge&theme=radical&border_radius=10&hide_border=true)](https://github.com/ankit7610/BookBridge)
+
+**Community Book Exchange Platform**
+- 📖 Connect readers and exchange books
+- 🔍 Advanced search and filtering system
+- 💬 In-app messaging for book discussions
+- ⭐ Rating and review system
+- 📱 Modern, intuitive UI/UX
+
+**Tech Stack:** Swift, SwiftUI, Firebase, Cloud Firestore
 
 <br/>
 
@@ -169,17 +209,24 @@
 - ⚡ 30% faster image processing
 - 📸 Advanced image analysis capabilities
 - 🎨 Real-time object detection
+- 🧠 Machine Learning integration
+
+**Tech Stack:** Swift, CoreML, Vision Framework, MobileNetV2
+
+</div>
 
 <br/>
 
-### 🔄 UnitFlow
-[![UnitFlow](https://github-readme-stats.vercel.app/api/pin/?username=ankit7610&repo=UnitFlow&theme=radical&border_radius=10&hide_border=true)](https://github.com/ankit7610/UnitFlow)
-
-**Smart Unit Conversion & Financial Calculator**
-- 📐 Advanced unit conversion system
-- 💵 Loan calculation with 20% improved accuracy
-- 🎨 1M+ customizable background colors
-- 📱 30% boost in user satisfaction
+<div align="center">
+  
+### 🔗 View All Projects
+  
+<a href="https://github.com/ankit7610?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
+</a>
+<a href="https://ankit7610.github.io/MyPortfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
@@ -212,21 +259,67 @@
 
 ---
 
+<h2 align="center">💼 Experience & Education 💼</h2>
+<br/>
+
+<div align="center">
+
+### 🎓 Skills & Expertise
+- **Mobile Development:** iOS (SwiftUI, UIKit), Android (Kotlin)
+- **Data Structures & Algorithms:** Advanced DSA, Competitive Programming
+- **Backend & Cloud:** Firebase, REST APIs, Cloud Services
+- **Machine Learning:** CoreML, Object Recognition, Neural Networks
+- **Version Control:** Git, GitHub, CI/CD
+
+### 🏅 Certifications
+- Data Structures & Algorithms Expert - Coding Ninjas
+- Multiple competitive programming achievements
+
+</div>
+
+<br/>
+
+---
+
+<h2 align="center">📈 Coding Activity 📈</h2>
+<br/>
+
+<div align="center">
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 📅 Contribution Heat Map
+
+<img src="https://ghchart.rshah.org/ankit7610" alt="GitHub Contribution Chart" width="98%" />
+
+</div>
+
+<br/>
+
+---
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+connect+and+build+something+amazing!;Always+open+to+collaboration+🚀" alt="Closing Message" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+connect+and+build+something+amazing!;Always+open+to+collaboration+🚀;Check+out+my+portfolio!" alt="Closing Message" />
 </h3>
 
 <br/>
 
 <div align="center">
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <h3>🤝 Let's Connect!</h3>
+  <p>Feel free to reach out for collaborations, opportunities, or just a tech chat!</p>
+  
+  <a href="https://linkedin.com/in/ankit-kaushik-81687b244" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@yourmedium" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  <a href="mailto:kaushikankit2021@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.instagram.com/yourinstagram/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://ankit7610.github.io/MyPortfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/ankit7610" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -235,3 +328,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+
+<p align="center">⭐️ From <a href="https://github.com/ankit7610">ankit7610</a> | Made with ❤️ and lots of ☕</p>
