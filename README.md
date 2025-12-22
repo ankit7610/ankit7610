@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Kaushik!;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A Passionate App Developer & Competitive Programmer from India 🚀</h3>
+<h3 align="center">App Developer | Competitive Programmer | Problem Solver 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankit7610&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -12,9 +12,9 @@
 <br/>
 
 <div align="center">
-  <p>🌱 Deep diving into <strong>SwiftUI, Kotlin, and Advanced DSA</strong></p>
-  <p>💬 Ask me about <strong>SwiftUI, Firebase, C++, DSA</strong>, or anything else!</p>
-  <p>⚡ Fun fact: <strong>I ranked 12th globally among 35,000+ participants in CodeChef Starters!</strong></p>
+  <p>🌱 Currently mastering <strong>SwiftUI, Kotlin, Advanced DSA & Machine Learning</strong></p>
+  <p>💬 Ask me about <strong>iOS Development, Firebase, C++, Competitive Programming</strong></p>
+  <p>⚡ Fun fact: <strong>Ranked 12th globally in CodeChef Starters among 35,000+ participants!</strong></p>
   <p>🌐 Portfolio: <a href="https://ankit7610.github.io/MyPortfolio/" target="_blank"><strong>ankit7610.github.io</strong></a></p>
 </div>
 
@@ -56,59 +56,185 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankit7610&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
----
-
-<h2 align="center">⚡ Stats & Analytics ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br/>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankit7610&show_icons=true&theme=radical&border_radius=10&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit7610&theme=radical&border_radius=10&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=ankit7610&theme=radical&border_radius=10&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7610&hide=HTML&langs_count=10&layout=compact&theme=radical&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ankit7610&theme=radical&border_radius=10&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7610&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ankit7610&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit7610&theme=redical&hide_border=true&area=true" alt="Contribution Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit7610&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="98%" />
 </div>
 
 <br/>
 
 ---
 
-<h2 align="center">💻 Competitive Programming Stats 💻</h2>
+<h2 align="center">💻 Competitive Programming Excellence 💻</h2>
+<br/>
+
+<div align="center">
+
+### 🏆 Achievements & Rankings
+
+**LeetCode** 🟨
+- Knight Badge - **Top 2.86% Globally**
+- Peak Rating: **1983** | Best Rank: **1003**
+- **1800+ Problems Solved**
+- [View Profile →](https://leetcode.com/u/AK200199/)
+
+**Codeforces** 🔵
+- Expert Rank (Peak: **1795**)
+- Best Contest Rank: **422nd in Div. 2**
+- **800+ Problems Solved**
+- [View Profile →](https://codeforces.com/profile/kaushikankit7610)
+
+**CodeChef** 🟤
+- **5⭐ Rating** (Peak: **2064**)
+- **Ranked 12th Globally** in CodeChef Starters (35,000+ participants)
+- **500+ Problems Solved**
+- [View Profile →](https://www.codechef.com/users/algoace2024)
+
+**HackerRank & Code360** 🟠
+- **5⭐ Proficiency in C++** on HackerRank
+- **500+ DSA Problems** completed on Code360
+- Expert Rank on Coding Ninjas
+
+</div>
+
 <br/>
 
 <div align="center">
   
-### 🔥 LeetCode Journey
+### 📊 LeetCode Statistics
+
 <a href="https://leetcode.com/u/AK200199/">
   <img src="https://leetcard.jacoblin.cool/AK200199?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" alt="LeetCode Stats" width="70%" />
 </a>
 
-<br/><br/>
+</div>
 
-| Platform | Rating | Rank | Problems Solved | Profile |
-|----------|--------|------|-----------------|---------|
-| 🟨 **LeetCode** | Knight Badge | Top 6% | 1200+ | [Visit Profile](https://leetcode.com/u/AK200199/) |
-| 🔵 **CodeForces** | 1464 (Peak) | Specialist | 500+ | [Visit Profile](https://codeforces.com/profile/kaushikankit7610) |
-| 🟤 **CodeChef** | 1737 (Peak) | 3⭐ | 300+ | [Visit Profile](https://www.codechef.com/users/algoace2024) |
-| 🟠 **Coding Ninjas** | Expert | - | - | [Visit Profile](https://www.naukri.com/code360/profile/df067981-84c2-48eb-87e7-afd400849732) |
+<br/>
+
+<div align="center">
+
+### 🎓 Certifications
+
+**Certificate of Excellence in C++ DSA** - **95% Score**
+- Exceptional programming expertise validated
+- Mastery in solving complex algorithmic problems efficiently
+- [View Certificate →](https://ninjasfiles.s3.amazonaws.com/certificate3197222d4d36b4657228c1d3138caa722b9a99d.pdf)
+
+<a href="https://ninjasfiles.s3.amazonaws.com/certificate3197222d4d36b4657228c1d3138caa722b9a99d.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/View_Certificate-DD6620?style=for-the-badge&logo=files&logoColor=white" alt="Certificate" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<h2 align="center">🚀 Featured Projects 🚀</h2>
+<br/>
+
+<div align="center">
+
+### 💱 CoinEquityX - Cryptocurrency Trading Platform
+[![CoinEquityX](https://github-readme-stats.vercel.app/api/pin/?username=ankit7610&repo=CoinEquityX&theme=radical&border_radius=10&hide_border=true)](https://github.com/ankit7610/CoinEquityX)
+
+**Advanced Cryptocurrency Portfolio & Trading App**
+- 📊 Real-time market data and advanced charting
+- 💼 Portfolio management with performance analytics
+- 🔐 Secure authentication with Firebase
+- 📈 Live price tracking for 100+ cryptocurrencies
+- 🎨 Modern SwiftUI interface with smooth animations
+- 🌙 Dark mode support
+
+**Tech Stack:** SwiftUI, Firebase, Combine, CoreData, CoinGecko API
+
+<br/>
+
+### 🌾 FarmPrediction - AI-Powered Agricultural Assistant
+[![FarmPrediction](https://github-readme-stats.vercel.app/api/pin/?username=ankit7610&repo=FarmPrediction&theme=radical&border_radius=10&hide_border=true)](https://github.com/ankit7610/FarmPrediction)
+
+**Machine Learning App for Crop Yield Prediction**
+- 🤖 ML-based crop recommendation system
+- 🌡️ Weather-based farming insights
+- 📊 Data-driven agricultural decisions
+- 🎯 High accuracy prediction models
+- 📱 User-friendly iOS interface
+
+**Tech Stack:** Swift, CoreML, CreateML, SwiftUI, Weather APIs
+
+<br/>
+
+### 💰 CryptoCurrency - Portfolio Manager
+[![CryptoCurrency](https://github-readme-stats.vercel.app/api/pin/?username=ankit7610&repo=CryptoCurrency&theme=radical&border_radius=10&hide_border=true)](https://github.com/ankit7610/CryptoCurrency)
+
+**Cryptocurrency Portfolio Management App**
+- 🏗️ MVVM architecture with SwiftUI
+- 🔐 Firebase authentication (Google & Apple Sign-In)
+- 📊 Live prices and interactive charts
+- 📈 25% increase in recommendation accuracy
+- ⚡ 30% faster login times
+- 🔒 25% reduction in unauthorized access
+
+**Tech Stack:** Swift, SwiftUI, Firebase, CoreData, Combine
+
+<br/>
+
+### 📚 BookBridge - Community Book Exchange
+[![BookBridge](https://github-readme-stats.vercel.app/api/pin/?username=ankit7610&repo=BookBridge&theme=radical&border_radius=10&hide_border=true)](https://github.com/ankit7610/BookBridge)
+
+**Social Platform for Book Lovers**
+- 📖 Connect readers and exchange books
+- 🔍 Advanced search and filtering
+- 💬 In-app messaging system
+- ⭐ Rating and review features
+- 📱 Clean, intuitive UI/UX
+
+**Tech Stack:** Swift, SwiftUI, Firebase, Cloud Firestore
+
+<br/>
+
+### 🎯 ObjectInsight - AI Object Recognition
+[![ObjectInsight](https://github-readme-stats.vercel.app/api/pin/?username=ankit7610&repo=ObjectInsight&theme=radical&border_radius=10&hide_border=true)](https://github.com/ankit7610/ObjectInsight)
+
+**AI-Powered Image Recognition App**
+- 🤖 MobileNetV2 with 95% accuracy
+- ⚡ 30% faster image processing
+- 📸 Real-time object detection
+- 🧠 CoreML integration
+- 🎨 Advanced image analysis
+
+**Tech Stack:** Swift, CoreML, Vision Framework, MobileNetV2
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+### 🔗 Explore More Projects
+  
+<a href="https://github.com/ankit7610?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
+</a>
+<a href="https://ankit7610.github.io/MyPortfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
@@ -133,33 +259,10 @@
 ### 🎨 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" alt="Tools & Platforms" />
 
-</div>
-
-<br/>
-
----
-
-<h2 align="center">🏆 Achievements & Highlights 🏆</h2>
-<br/>
-
-<div align="center">
-
-```
-🥇 Competitive Programming Achievements
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✓ LeetCode Knight Badge - Top 6%
-✓ 1200+ Problems Solved Across Platforms
-✓ Ranked 12th Globally in CodeChef Starters (35K+ participants)
-✓ CodeForces Specialist (Peak: 1464)
-✓ CodeChef 3⭐ (Peak: 1737)
-✓ Certified DSA Expert - Coding Ninjas
-```
-
-<br/>
-
-<a href="https://ninjasfiles.s3.amazonaws.com/certificate3197222d4d36b4657228c1d3138caa722b9a99d.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/View_Certificate-DD6620?style=for-the-badge&logo=files&logoColor=white" alt="Certificate" />
-</a>
+### 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI & ML" />
+<img src="https://img.shields.io/badge/CoreML-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CoreML" />
+<img src="https://img.shields.io/badge/CreateML-000000?style=for-the-badge&logo=apple&logoColor=white" alt="CreateML" />
 
 </div>
 
@@ -167,66 +270,39 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects 🚀</h2>
+<h2 align="center">💼 Skills & Expertise 💼</h2>
 <br/>
 
 <div align="center">
 
-### 💰 CryptoCurrency App
-[![CryptoCurrency](https://github-readme-stats.vercel.app/api/pin/?username=ankit7610&repo=CryptoCurrency&theme=radical&border_radius=10&hide_border=true)](https://github.com/ankit7610/CryptoCurrency)
+**Mobile Development**
+- iOS Development (SwiftUI, UIKit, Combine)
+- Android Development (Kotlin, Jetpack Compose)
+- Cross-platform (Flutter, React Native)
 
-**Cryptocurrency Portfolio Management App**
-- 🏗️ Built with MVVM architecture & SwiftUI
-- 🔐 Firebase authentication (Google & Apple Sign-In)
-- 📊 Live prices, interactive charts, and portfolio tracking
-- 📈 25% increase in recommendation accuracy
-- ⚡ 30% faster login times
-- 🔒 25% reduction in unauthorized access
+**Competitive Programming**
+- Advanced Data Structures & Algorithms
+- Dynamic Programming & Graph Theory
+- Algorithmic Problem Solving
+- Contest Strategy & Optimization
 
-**Tech Stack:** Swift, SwiftUI, Firebase, CoreData, Combine
+**Backend & Cloud**
+- Firebase (Auth, Firestore, Cloud Functions)
+- REST APIs & GraphQL
+- Database Design (SQL, NoSQL)
+- Cloud Services Integration
 
-<br/>
+**Machine Learning**
+- CoreML & CreateML
+- Computer Vision
+- Neural Networks
+- Predictive Modeling
 
-### 📚 BookBridge
-[![BookBridge](https://github-readme-stats.vercel.app/api/pin/?username=ankit7610&repo=BookBridge&theme=radical&border_radius=10&hide_border=true)](https://github.com/ankit7610/BookBridge)
-
-**Community Book Exchange Platform**
-- 📖 Connect readers and exchange books
-- 🔍 Advanced search and filtering system
-- 💬 In-app messaging for book discussions
-- ⭐ Rating and review system
-- 📱 Modern, intuitive UI/UX
-
-**Tech Stack:** Swift, SwiftUI, Firebase, Cloud Firestore
-
-<br/>
-
-### 🎯 ObjectInsight
-[![ObjectInsight](https://github-readme-stats.vercel.app/api/pin/?username=ankit7610&repo=ObjectInsight&theme=radical&border_radius=10&hide_border=true)](https://github.com/ankit7610/ObjectInsight)
-
-**AI-Powered Object Recognition App**
-- 🤖 Powered by MobileNetV2 with 95% accuracy
-- ⚡ 30% faster image processing
-- 📸 Advanced image analysis capabilities
-- 🎨 Real-time object detection
-- 🧠 Machine Learning integration
-
-**Tech Stack:** Swift, CoreML, Vision Framework, MobileNetV2
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-### 🔗 View All Projects
-  
-<a href="https://github.com/ankit7610?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
-</a>
-<a href="https://ankit7610.github.io/MyPortfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
+**Development Practices**
+- MVVM & Clean Architecture
+- Git Version Control
+- CI/CD Pipelines
+- Agile Methodologies
 
 </div>
 
@@ -259,55 +335,15 @@
 
 ---
 
-<h2 align="center">💼 Experience & Education 💼</h2>
-<br/>
-
-<div align="center">
-
-### 🎓 Skills & Expertise
-- **Mobile Development:** iOS (SwiftUI, UIKit), Android (Kotlin)
-- **Data Structures & Algorithms:** Advanced DSA, Competitive Programming
-- **Backend & Cloud:** Firebase, REST APIs, Cloud Services
-- **Machine Learning:** CoreML, Object Recognition, Neural Networks
-- **Version Control:** Git, GitHub, CI/CD
-
-### 🏅 Certifications
-- Data Structures & Algorithms Expert - Coding Ninjas
-- Multiple competitive programming achievements
-
-</div>
-
-<br/>
-
----
-
-<h2 align="center">📈 Coding Activity 📈</h2>
-<br/>
-
-<div align="center">
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-### 📅 Contribution Heat Map
-
-<img src="https://ghchart.rshah.org/ankit7610" alt="GitHub Contribution Chart" width="98%" />
-
-</div>
-
-<br/>
-
----
-
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+connect+and+build+something+amazing!;Always+open+to+collaboration+🚀;Check+out+my+portfolio!" alt="Closing Message" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Let's+connect+and+collaborate!;Always+open+to+new+opportunities+🚀" alt="Closing Message" />
 </h3>
 
 <br/>
 
 <div align="center">
   <h3>🤝 Let's Connect!</h3>
-  <p>Feel free to reach out for collaborations, opportunities, or just a tech chat!</p>
+  <p>Open to collaborations, opportunities, and tech discussions</p>
   
   <a href="https://linkedin.com/in/ankit-kaushik-81687b244" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -335,4 +371,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
-<p align="center">⭐️ From <a href="https://github.com/ankit7610">ankit7610</a> | Made with ❤️ and lots of ☕</p>
+<p align="center">⭐️ From <a href="https://github.com/ankit7610">ankit7610</a> with ❤️</p>
