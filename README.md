@@ -49,10 +49,10 @@
 
 ## 💻 Tech Stack
 
-**Mobile Development:** Swift, SwiftUI, Kotlin, Flutter, React Native  
-**Languages:** C++, Python, Java, JavaScript, TypeScript, Dart  
-**Backend & Database:** Firebase, MySQL, MongoDB, Node.js, Express, GraphQL  
-**AI/ML:** CoreML, CreateML, TensorFlow, Computer Vision  
+**Mobile Development:** Swift, SwiftUI, Kotlin, Flutter, React Native <br>
+**Languages:** C++, Python, Java, JavaScript, TypeScript, Dart <br>
+**Backend & Database:** Firebase, MySQL, MongoDB, Node.js, Express, GraphQL <br>
+**AI/ML:** CoreML, CreateML, TensorFlow, Computer Vision <br>
 **Tools:** Git, GitHub, Xcode, Android Studio, VS Code, Figma, Postman
 
 ---
@@ -112,13 +112,12 @@ AI-powered image recognition app with 95% accuracy.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankit7610&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7610&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankit7610&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ankit's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7610&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit7610&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ankit7610&theme=tokyonight&hide_border=true&layout=compact" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit7610&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
@@ -126,7 +125,7 @@ AI-powered image recognition app with 95% accuracy.
 ## 📈 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AK200199?theme=dark&font=Karma&ext=contest" width="500" />
+  <img src="https://github-readme-leetcode-stats.vercel.app/api?username=AK200199&theme=tokyonight&font=Karma" alt="LeetCode Stats" />
 </p>
 
 ---
