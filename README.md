@@ -158,7 +158,7 @@
 <div align="center">
 
 ### 🎯 LeetCode Knight Badge
-![LeetCode Stats](https://leetcard.jacoblin.cool/AK200199?theme=nord&font=Noto%20Sans&ext=heatmap)
+<a href="https://leetcode.com/u/AK200199/"><img src="https://leetcard.jacoblin.cool/AK200199?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/></a>
 
 </div>
 
@@ -178,12 +178,13 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankit7610&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ankit7610&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankit7610&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit7610&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=C9D1D9" alt="GitHub Streak" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7610&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages" height="170"/>
-
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7610&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ankit7610&theme=radical&hide_border=true&layout=compact" alt="Coding Stats" />
 </div>
 
 ---
@@ -192,7 +193,17 @@
 
 <div align="center">
 
-[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankit7610&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9)](https://github.com/ankit7610)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankit7610&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ankit7610&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
@@ -217,7 +228,7 @@ const ankit = {
 
 **Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ankit7610&color=3B82F6&style=flat-square&label=Profile+Views)](https://github.com/ankit7610)
+![Profile Views](https://komarev.com/ghpvc/?username=ankit7610&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
