@@ -158,7 +158,10 @@
 <div align="center">
 
 ### 🎯 LeetCode Knight Badge
-<a href="https://leetcode.com/u/AK200199/"><img src="https://leetcard.jacoblin.cool/AK200199?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/></a>
+
+<a href="https://leetcode.com/u/AK200199/">
+  <img src="https://leetcard.jacoblin.cool/AK200199?theme=dark&font=Noto%20Sans&ext=activity" alt="LeetCode Stats"/>
+</a>
 
 </div>
 
@@ -177,35 +180,30 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankit7610&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ankit7610&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit7610&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7610&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7610&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ankit7610&theme=radical&hide_border=true&layout=compact" alt="Coding Stats" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankit7610&theme=react-dark&hide_border=true&area=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit7610&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit7610&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ankit7610&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+---
 
-</div>
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankit7610&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -222,13 +220,29 @@ const ankit = {
 
 ---
 
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:kaushikankit7610@gmail.com">
+    <img src="https://img.shields.io/badge/-kaushikankit7610@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ankit-kaushik-81687b244">
+    <img src="https://img.shields.io/badge/-Ankit_Kaushik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ankit7610.github.io/MyPortfolio/">
+    <img src="https://img.shields.io/badge/-Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <div align="center">
 
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 **Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
-![Profile Views](https://komarev.com/ghpvc/?username=ankit7610&color=blueviolet&style=flat-square&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=ankit7610&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -236,6 +250,6 @@ const ankit = {
 
 <div align="center">
   
-**⭐ From [ankit7610](https://github.com/ankit7610) | Built with 💙 and ☕**
+**⭐ From [ankit7610](https://github.com/ankit7610) with 💙**
 
 </div>
