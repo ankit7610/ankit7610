@@ -1,16 +1,33 @@
-# Ankit Kaushik
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=120&section=header&text=Ankit%20Kaushik&fontColor=ffffff&fontSize=42&fontAlignY=35&animation=fadeIn" alt="Header" />
+</div>
 
-App Developer | Competitive Programmer | Problem Solver
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=F75C7E&center=true&vCenter=true&width=600&lines=App+Developer;Competitive+Programmer;Problem+Solver;Building+Scalable+Products)](https://git.io/typing-svg)
-
-[Phone](tel:+917610527980) | [Email](mailto:kaushikankit7610@gmail.com) | [LinkedIn](https://linkedin.com/in/ankit-kaushik-81687b244) | [GitHub](https://github.com/ankit7610) | [CodeChef](https://www.codechef.com/users/algoace2024) | [Code360](https://www.naukri.com/code360/profile/df067981-84c2-48eb-87e7-afd400849732) | [LeetCode](https://leetcode.com/u/AK200199/) | [Codeforces](https://codeforces.com/profile/kaushikankit7610) | [Portfolio](https://ankit7610.github.io/MyPortfolio/)
+<div align="center">
+  <h1>Ankit Kaushik</h1>
+  <p><strong>App Developer | Competitive Programmer | Problem Solver</strong></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=F75C7E&center=true&vCenter=true&width=600&lines=App+Developer;Competitive+Programmer;Problem+Solver;Building+Scalable+Products" alt="Typing Animation" />
+  <p>
+    <a href="mailto:kaushikankit7610@gmail.com"><img src="https://img.shields.io/badge/Email-kaushikankit7610%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/ankit-kaushik-81687b244"><img src="https://img.shields.io/badge/LinkedIn-Ankit%20Kaushik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/ankit7610"><img src="https://img.shields.io/badge/GitHub-ankit7610-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://ankit7610.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  </p>
+  <p>Phone: +91 7610527980</p>
+</div>
 
 ---
 
 ## About
 
-I build scalable software across mobile and web, and I enjoy shipping products backed by strong DSA fundamentals and measurable performance improvements.
+I build scalable software across mobile and web, with a focus on performance, clean architecture, and measurable impact. I enjoy competitive programming and using DSA to ship reliable products.
+
+---
+
+## Highlights
+
+- Software Development Intern at Agoda, building Scala services for 50M+ daily requests
+- Delivered production features serving 10M+ real-time user interactions with 99.9% uptime
+- Competitive programming: LeetCode Knight Badge (top 2.86%), Codeforces Expert, CodeChef 5-star
 
 ---
 
@@ -18,42 +35,44 @@ I build scalable software across mobile and web, and I enjoy shipping products b
 
 - Indian Institute of Information Technology, Bhopal (Nov 2022 - May 2026)
   - B.Tech in Information Technology, CGPA 8.01
-  - Relevant coursework: Data Structures and Algorithms, Object Oriented Programming
+  - Relevant coursework: Data Structures and Algorithms, Object-Oriented Programming
 
 ---
 
 ## Professional Experience
 
-- Agoda India Pvt Ltd | Software Development Intern (Jun 2025 - Present)
-  - Built 3 scalable backend services in Scala for Agoda's Affiliate Platform, cutting API response times by 40% and improving data flow for 50M+ daily partner integration requests
-  - Collaborated with a 5-member engineering team to design distributed system architecture, delivering 2 production-grade features serving 10M+ real-time user interactions daily with 99.9% uptime
-- Sunrise Mentors Private Limited | Teaching Assistant Intern (May 2024 - Jul 2024)
-  - Provided one-on-one support to 200+ students, resolving complex C++ DSA issues through targeted debugging and concept clarification
-  - Guided students through challenging programming tasks, maintaining a 4.71/5 satisfaction rating
-- Google Developer Student Club, IIIT Bhopal | Assistant App Dev Lead (Aug 2023 - Jul 2024)
-  - Led a 2-member app dev team as App Development Lead for the Google Developer Student Club
+### Agoda India Pvt Ltd - Software Development Intern (Jun 2025 - Present)
+- Built 3 scalable backend services in Scala for Agoda's Affiliate Platform, cutting API response times by 40% and improving data flow for 50M+ daily partner integration requests
+- Collaborated with a 5-member engineering team to design distributed system architecture, delivering 2 production-grade features serving 10M+ real-time user interactions daily with 99.9% uptime
+
+### Sunrise Mentors Private Limited - Teaching Assistant Intern (May 2024 - Jul 2024)
+- Provided one-on-one support to 200+ students, resolving complex C++ DSA issues through targeted debugging and concept clarification
+- Guided students through challenging programming tasks, maintaining a 4.71/5 satisfaction rating
+
+### Google Developer Student Club, IIIT Bhopal - Assistant App Dev Lead (Aug 2023 - Jul 2024)
+- Led a 2-member app dev team as App Development Lead for the Google Developer Student Club
 
 ---
 
 ## Academic Projects
 
-### CoinEquityX | React, TypeScript, Node.js, MongoDB, Firebase, Supabase, Gemini AI, Vitest, Docker, CI/CD
-[Live Demo](https://coin-equity-x.vercel.app/)
-
+### CoinEquityX
+**Links:** [Live Demo](https://coin-equity-x.vercel.app/) | [GitHub](https://github.com/ankit7610/CryptoCurrency)
+**Tech:** React, TypeScript, Node.js, MongoDB, Firebase, Supabase, Gemini AI, Vitest, Docker, CI/CD
 - Built a comprehensive investment tracking platform with real-time crypto and stock market data visualization using Recharts and a responsive Material UI design
 - Integrated Firebase Authentication and Supabase for secure data management and an AI chat assistant using Google's Gemini API
 - Implemented a high-performance caching layer using IndexedDB and TanStack Query, reducing API latency by 40% and enabling offline availability, validated with Vitest and Playwright
 
-### BookLink App | Kotlin Multiplatform, Jetpack Compose, MVVM, Ktor 3.0, Room Database, Koin
-[GitHub](https://github.com/ankit7610/BookBridge)
-
+### BookLink App
+**Links:** [GitHub](https://github.com/ankit7610/BookBridge)
+**Tech:** Kotlin Multiplatform, Jetpack Compose, MVVM, Ktor 3.0, Room Database, Koin
 - Developed a cross-platform book search app enabling searches across 10,000+ books
 - Implemented adaptive navigation with genre and summary views for a personalized browsing experience
 - Integrated Room Database for offline access and Koin for dependency injection to improve data retrieval efficiency
 
-### Farmlytics | Python, Flask, TensorFlow, Keras, Scikit-learn, Docker, PWA, Bootstrap, NumPy, JavaScript
-[GitHub](https://github.com/ankit7610/FarmPrediction)
-
+### Farmlytics
+**Links:** [GitHub](https://github.com/ankit7610/FarmPrediction)
+**Tech:** Python, Flask, TensorFlow, Keras, Scikit-learn, Docker, PWA, Bootstrap, NumPy, JavaScript
 - Built an AI-powered agricultural intelligence platform with real-time crop disease detection for 9+ varieties
 - Engineered CNN models for image-based diagnosis and integrated Scikit-learn for predictive soil analysis
 - Added PWA features with Service Workers and IndexedDB for offline asset caching and local prediction history
@@ -70,15 +89,35 @@ I build scalable software across mobile and web, and I enjoy shipping products b
 
 ---
 
-## GitHub Achievements
+## Skills
 
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ankit7610&theme=algolia&no-frame=true&margin-w=8&column=6)
+- Languages: C, C++, Python, Java, Swift, Kotlin, Scala, JavaScript, TypeScript, Dart, MATLAB
+- Mobile: SwiftUI, Jetpack Compose, Flutter, React Native
+- Backend and Data: Node.js, Express, MongoDB, MySQL, Firebase, GraphQL
+- Tools: Git, GitHub, GitLab, Docker, Xcode, Android Studio, VS Code, IntelliJ, DataGrip, Postman, Grafana, Linux
+- Soft Skills: Leadership, Team Management, Creativity, Public Speaking
 
 ---
 
-## Additional Information
+## GitHub Highlights
 
-- Technical Skills: C, C++, Python, Java, Swift, SwiftUI, Kotlin, Scala, MATLAB, HTML, Flutter, React, MySQL, JavaScript
-- Technologies: Dart, Firebase, GraphQL, Jetpack Compose, Core Data, Postman, Grafana, React Native
-- Developer Tools: GitHub, Git, Xcode, Android Studio, VS Code, JSON, Linux, GitLab, IntelliJ, DataGrip, Docker, Orbstack
-- Soft Skills: Leadership, Team Management, Creativity, Public Speaking
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit7610&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ankit7610&hide_border=true&theme=transparent" height="150" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7610&layout=compact&hide_border=true&theme=transparent" height="140" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/ankit7610?tab=achievements">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:0F2027&height=90&section=footer&animation=fadeIn" alt="Footer" />
+</div>
