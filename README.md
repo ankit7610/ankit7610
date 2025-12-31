@@ -12,22 +12,22 @@
     <a href="https://github.com/ankit7610"><img src="https://img.shields.io/badge/GitHub-ankit7610-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://ankit7610.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   </p>
+  <p>
+    <a href="https://leetcode.com/u/AK200199/"><img src="https://img.shields.io/badge/LeetCode-AK200199-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://codeforces.com/profile/kaushikankit7610"><img src="https://img.shields.io/badge/Codeforces-kaushikankit7610-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+    <a href="https://www.codechef.com/users/algoace2024"><img src="https://img.shields.io/badge/CodeChef-algoace2024-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+    <a href="https://www.naukri.com/code360/profile/df067981-84c2-48eb-87e7-afd400849732"><img src="https://img.shields.io/badge/Code360-Profile-0EA5E9?style=for-the-badge&logo=codio&logoColor=white" alt="Code360" /></a>
+  </p>
   <p>Phone: +91 7610527980</p>
 </div>
 
 ---
 
-## About
+## Summary
 
-I build scalable software across mobile and web, with a focus on performance, clean architecture, and measurable impact. I enjoy competitive programming and using DSA to ship reliable products.
-
----
-
-## Highlights
-
-- Software Development Intern at Agoda, building Scala services for 50M+ daily requests
-- Delivered production features serving 10M+ real-time user interactions with 99.9% uptime
-- Competitive programming: LeetCode Knight Badge (top 2.86%), Codeforces Expert, CodeChef 5-star
+- Build scalable software across mobile and web with clean architecture and performance focus
+- Strong DSA background and competitive programming track record
+- Proven impact on systems serving 10M+ users and 50M+ daily requests
 
 ---
 
@@ -102,18 +102,20 @@ I build scalable software across mobile and web, with a focus on performance, cl
 ## GitHub Highlights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit7610&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=ankit7610&hide_border=true&theme=transparent" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit7610&show_icons=true&rank_icon=github&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ankit7610&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7610&layout=compact&hide_border=true&theme=transparent" height="140" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit7610&layout=compact&hide_border=true" height="140" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/ankit7610?tab=achievements">
-    <img src="https://img.shields.io/badge/View%20GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements" />
-  </a>
+  <img src="assets/github-trophies.svg" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/ankit7610?tab=achievements">View GitHub Achievements</a>
 </div>
 
 ---
