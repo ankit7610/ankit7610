@@ -72,7 +72,7 @@ I build scalable software across mobile and web, and I enjoy shipping products b
 
 ## GitHub Achievements
 
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ankit7610&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6)
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ankit7610&theme=algolia&no-frame=true&margin-w=8&column=6)
 
 ---
 
