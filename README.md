@@ -2,6 +2,8 @@
 
 App Developer | Competitive Programmer | Problem Solver
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=F75C7E&center=true&vCenter=true&width=600&lines=App+Developer;Competitive+Programmer;Problem+Solver;Building+Scalable+Products)](https://git.io/typing-svg)
+
 [Phone](tel:+917610527980) | [Email](mailto:kaushikankit7610@gmail.com) | [LinkedIn](https://linkedin.com/in/ankit-kaushik-81687b244) | [GitHub](https://github.com/ankit7610) | [CodeChef](https://www.codechef.com/users/algoace2024) | [Code360](https://www.naukri.com/code360/profile/df067981-84c2-48eb-87e7-afd400849732) | [LeetCode](https://leetcode.com/u/AK200199/) | [Codeforces](https://codeforces.com/profile/kaushikankit7610) | [Portfolio](https://ankit7610.github.io/MyPortfolio/)
 
 ---
@@ -65,6 +67,12 @@ I build scalable software across mobile and web, and I enjoy shipping products b
 - Earned a 5-star rating on CodeChef with a peak rating of 2064; ranked 12th globally in CodeChef Starters among 35,000+ participants
 - Awarded a Certificate of Excellence in C++ DSA with a 95% score
 - Solved 800+ competitive programming problems across platforms, earned 5-star proficiency in C++ on HackerRank, and completed 500+ DSA problems on Code360
+
+---
+
+## GitHub Achievements
+
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ankit7610&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6)
 
 ---
 
