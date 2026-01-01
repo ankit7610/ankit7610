@@ -250,6 +250,6 @@ const ankit = {
 
 <div align="center">
   
-**⭐ From [ankit7610](https://github.com/ankit7610) with 💙**
+**⭐ From [ankit7610](https://github.com/ankit7610) **
 
 </div>
